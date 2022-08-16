@@ -1,9 +1,9 @@
 ## Opa eu sou o Bruno, atualmente estou estudando na Trybe, porém nas horas vagas sou apenas um player :)
 
-<div align="center">
+<div align="center" style="display: inline-block">
   <a href="https://github.com/brunokye">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunokye&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunokye&layout=compact&langs_count=7&theme=radical"/> 
+  <img height="169em" src="https://github-readme-stats.vercel.app/api?username=brunokye&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="169em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunokye&layout=compact&langs_count=7&theme=radical"/> 
 </div>
 
 <div style="display: inline_block"><br>
