@@ -18,7 +18,7 @@
   <img align="center" alt="Redux Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   <img align="center" alt="React Test Library Icon" height="30" width="40" src="https://testing-library.com/img/octopus-128x128.png" />
   <img align="center" alt="Docker Icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img align="center" alt="Docker Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="MySQL Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="right" alt="Bruno Pixel Art" height="150" style="border-radius:50px;" src="https://i.imgur.com/AWJmxvy.png" />
 </div>
   
