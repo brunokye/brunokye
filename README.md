@@ -26,6 +26,9 @@
   <img align="center" alt="Sinon Icon" height="30" width="30" src="https://sinonjs.org/assets/images/logo.png" />
   <img align="center" alt="Sequelize Icon" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
   <img align="center" alt="JWT Icon" height="30" width="30" src="https://img.icons8.com/color/512/java-web-token.png" />
+  <img align="center" alt="Python Icon" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Flask Icon" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+  <img align="center" alt="Django Icon" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
   <img align="right" alt="Bruno Pixel Art" height="150" style="border-radius:50px;" src="https://i.imgur.com/AWJmxvy.png" />
 </div>
   
