@@ -1,5 +1,5 @@
 ## Opa, eu sou o Bruno :) 
-## Atualmente estou estudando na Trybe, porém nas horas vagas sou apenas um player.
+## Atualmente estou estudando Python, porém nas horas vagas sou apenas um player.
 
 <div align="center">
   <a href="https://github.com/brunokye">
