@@ -1,5 +1,5 @@
 ## Opa, eu sou o Bruno :) 
-## Atualmente estou estudando Python, porém nas horas vagas sou apenas um player.
+## Atualmente estou procurando emprego, porém nas horas vagas sou apenas um player.
 
 <div align="center">
   <a href="https://github.com/brunokye">
@@ -9,27 +9,27 @@
 
 <br>
 
-<div style="display: inline_block">
-  <img align="center" alt="HTML Icon" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS Icon" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img align="center" alt="JavaScript Icon" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="TypeScript Icon" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-  <img align="center" alt="Jest Icon" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-  <img align="center" alt="React Icon" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  <img align="center" alt="Redux Icon" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-  <img align="center" alt="React Test Library Icon" height="30" width="30" src="https://testing-library.com/img/octopus-128x128.png" />
-  <img align="center" alt="Docker Icon" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img align="center" alt="MySQL Icon" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Node Icon" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Mocha Icon" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
-  <img align="center" alt="Chai Icon" height="30" width="30" src="https://svgur.com/i/sYA.svg" />
-  <img align="center" alt="Sinon Icon" height="30" width="30" src="https://sinonjs.org/assets/images/logo.png" />
-  <img align="center" alt="Sequelize Icon" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
-  <img align="center" alt="JWT Icon" height="30" width="30" src="https://img.icons8.com/color/512/java-web-token.png" />
-  <img align="center" alt="Python Icon" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Flask Icon" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-  <img align="center" alt="Django Icon" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-  <img align="right" alt="Bruno Pixel Art" height="150" style="border-radius:50px;" src="https://i.imgur.com/AWJmxvy.png" />
+<div>
+  <img alt="Python Icon" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="JavaScript Icon" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img alt="TypeScript Icon" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+  <img alt="HTML Icon" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img alt="CSS Icon" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img alt="React Icon" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  <img alt="Redux Icon" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+  <img alt="Node Icon" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img alt="MySQL Icon" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img alt="Sequelize Icon" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
+  <img alt="Docker Icon" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img alt="Jest Icon" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  <img alt="React Test Library Icon" width="30" src="https://testing-library.com/img/octopus-128x128.png" />
+  <img alt="Mocha Icon" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
+  <img alt="Chai Icon" width="30" src="https://svgur.com/i/sYA.svg" />
+  <img alt="Sinon Icon" width="30" src="https://sinonjs.org/assets/images/logo.png" />
+  <img alt="Flask Icon" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+  <img alt="Django Icon" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+  <img alt="JWT Icon" width="30" src="https://img.icons8.com/color/512/java-web-token.png" />
+  <img align="right" alt="Bruno Pixel Art" width="150" style="border-radius:50px;" src="https://i.imgur.com/AWJmxvy.png" />
 </div>
   
  ##
